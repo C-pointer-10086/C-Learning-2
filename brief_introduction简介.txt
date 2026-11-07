@@ -1,0 +1,72 @@
+=========================================
+C 语言学习项目集 - 正式版本 v1.0.1
+=========================================
+
+【项目简介】
+本仓库记录了我自学 C 语言的过程、测试代码以及实战项目。
+
+【文件与目录说明】
+
+1. 核心项目
+   * student_marks.c ：目前最成熟的项目（学生成绩管理系统）。
+   * big_float.c     ：自我实现大数运算的程序。目前属于半完工状态，搁置中，正在学习实现它所需要的前置技术。
+
+2. 历史版本
+   * pow.c           ：大数运算的前身版本。
+
+3. 技术测试与验证
+   * ADD/            ：验证多文件编程（Multi-file compilation）的总文件夹。
+   * de.c            ：测试宏定义（Macro definitions）。
+   * ptr.c           ：测试指针（Pointers）。
+   * struct.c        ：测试结构体（Structs）。
+
+4. 文档
+   * brief_introduction简介.txt ：描述版本信息以及每个文件的作用（即本文件）。
+
+=========================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=========================================
+C Language Learning Projects - Official Version v1.0.1
+=========================================
+
+[Project Overview]
+This repository documents my journey of self-learning C language, including test codes and hands-on projects.
+
+[File & Directory Description]
+
+1. Core Projects
+   * student_marks.c : The most mature project currently (Student Grade Manager).
+   * big_float.c     : A self-implemented arbitrary-precision arithmetic (BigInt) program. It is currently a work in progress and paused while I study the prerequisite technologies.
+
+2. Legacy Versions
+   * pow.c           : The predecessor version of the BigInt program.
+
+3. Technical Tests & Verification
+   * ADD/            : Main folder for verifying multi-file compilation.
+   * de.c            : Test for macro definitions.
+   * ptr.c           : Test for pointers.
+   * struct.c        : Test for structs.
+
+4. Documentation
+   * brief_introduction简介.txt : Describes the version and the purpose of each file (this file).
+
+=========================================
