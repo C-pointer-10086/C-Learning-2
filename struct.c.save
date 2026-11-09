@@ -1,0 +1,21 @@
+#include<stdio.h>
+    void  input(struct you_number lihua){
+                printf("name is %s,weigh is %dkg\n",lihua.name,lihua.weight);
+        }
+int main(void){
+struct.c:2:24: warning: declaration of 'struct you_number' will not be visible outside of this function [-Wvisibility]
+    2 |     void  input(struct you_number lihua){
+      |                        ^
+struct.c:2:35: error: variable has incomplete type 'struct you_number'
+    2 |     void  input(struct you_number lihua){
+      |                                   ^
+struct.c:2:24: note: forward declaration of 'struct you_number'
+    2 |     void  input(struct you_number lihua){
+      |                        ^
+struct.c:17:8: error: argument type 'struct you_number' is incomplete
+   17 |         input(lihua);
+      |               ^~~~~
+struct.c:2:24: note: forward declaration of 'struct you_number'
+    2 |     void  input(struct you_number lihua){
+      |                        ^
+1 warning and 2 errors generated.
