@@ -1,5 +1,5 @@
 =========================================
-C 语言学习项目集 - 正式版本 v1.0.2
+C 语言学习项目集 - 正式版本 v1.0.3
 =========================================
 
 【项目简介】
@@ -18,8 +18,8 @@ C 语言学习项目集 - 正式版本 v1.0.2
    * ADD/            ：验证多文件编程（Multi-file compilation）的总文件夹。
    * de.c            ：测试宏定义（Macro definitions）。
    * ptr.c           ：测试指针（Pointers）。
-   * struct.c        ：测试结构体，测试传参结构体（Structs）。
-
+   * struct.c        ：测试结构体，测试结构体（Structs）。
+   * goto.c          : 测试goto。
 4. 文档
    * brief_introduction简介.txt ：描述版本信息以及每个文件的作用（即本文件）。
 
@@ -45,7 +45,7 @@ C 语言学习项目集 - 正式版本 v1.0.2
 
 
 =========================================
-C Language Learning Projects - Official Version v1.0.1
+C Language Learning Projects - Official Version v1.0.3
 =========================================
 
 [Project Overview]
